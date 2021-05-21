@@ -1,0 +1,27 @@
+body{
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 1.5rem;
+}
+
+footer{
+    background: red;
+
+}
+
+h1{
+    background-color: red;
+    padding: 10px;
+}
+.comandos {
+    list-style-type: disc;
+    margin-left: 50px;
+}
+
+.layout{
+    padding: 10px;
+}
