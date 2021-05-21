@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&display=swap");
 body{
     background: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,6 +17,7 @@ footer{
 h1{
     background-color: red;
     padding: 10px;
+    color: white;
 }
 .comandos {
     list-style-type: disc;
@@ -25,3 +27,5 @@ h1{
 .layout{
     padding: 10px;
 }
+a {
+    text-decoration: none;}
